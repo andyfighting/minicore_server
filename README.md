@@ -1,2 +1,2 @@
-# minicore_server
+# Minicore_server
 A game server in Golang.
